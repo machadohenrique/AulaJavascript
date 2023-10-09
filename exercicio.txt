@@ -1,0 +1,18 @@
+A) Crie um código em javascript, onde:
+1- voce vai representar um carrinho de compras como um array
+2- depois voce vai adicionar 3 elementos nesse array
+3- exiba os elementos do carrinho no console.
+
+
+B) Vamos supor que voce tem uma lista de funcionarios da sua empresa representada por um array.
+1- O funcionario que se encontra no indice 5 foi demitido.
+2- Foi contratado mais dois funcionarios.
+3- O funcionario que se encontra no primeiro indice tambem foi demitido.
+4- Mostre o tamanho do array
+5- Imprima os elementos do array no console.
+
+C) Visto o array de funcionarios do exercicio anterior, percorra a lista de funcionarios utilizando um
+laço de repetiçao que desejar.
+
+D)Vamos supor que tenhamos uma lista de 10 alunos com suas respectivas notas, percorra essa lista de alunos
+ e imprima os alunos que tenha somente notas abaixo de 7.
