@@ -18,4 +18,3 @@ console.log(valores)
 // removendo o primeiro iten do array
 delete valores[0]
 console.log(valores)
-
